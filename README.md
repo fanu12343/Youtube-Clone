@@ -11,9 +11,6 @@ This project was created as part of my front-end development practice.
 - Video grid with thumbnails and channel info
 - Built with semantic HTML and modular CSS
 
-##  Screenshots
-*Add a screenshot here if available*
-
 ##  What I Learned
 - Responsive web design fundamentals
 - CSS layout techniques

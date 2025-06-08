@@ -1,4 +1,5 @@
- YouTube Homepage Clone
+
+YouTube Homepage Clone
 
 A fully responsive YouTube homepage clone built using **HTML** and **CSS**.  
 This project was created as part of my front-end development practice.
@@ -18,3 +19,5 @@ This project was created as part of my front-end development practice.
 - CSS layout techniques
 - Structuring real-world HTML pages
 
+You can checkout my simple project in the link which is given below:
+https://fanu12343.github.io/Youtube-Clone/
